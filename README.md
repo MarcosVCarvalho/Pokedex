@@ -4,6 +4,9 @@ Este projeto foi desenvolvido como parte de uma atividade da disciplina de Anál
 
 O objetivo foi criar uma Pokédex interativa utilizando HTML, CSS e JavaScript, aplicando conceitos de desenvolvimento web e consumo de API.
 
+## 🌐 Acesse o site  
+👉 [Link para o Site](https://marcosvcarvalho.github.io/Pokedex/)
+
 🚀 Funcionalidades
 
 Buscar Pokémon pelo nome ou número
